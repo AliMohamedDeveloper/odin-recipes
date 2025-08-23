@@ -34,3 +34,17 @@ h1 {
     padding-top: 10px;
     text-align: center;
 }
+
+.malawax {
+    background-color: #f7ede2;
+    font-family: "Inter", sans-serif;
+
+
+}
+
+#malawaximg {
+    display: block;
+    margin: 0 auto;
+    height: 400px;
+    width: 600px;
+}
