@@ -62,3 +62,75 @@ h1 {
     height: 400px;
     width: 600px;
 }
+
+.spaghetti {
+    background-color: #f7ede2;
+    font-family: "Inter", sans-serif;
+
+
+}
+
+.spaghetti .spaghettimg {
+    display: block;
+    margin: 0 auto;
+    height: 400px;
+    width: 600px;
+}
+
+p {
+    text-align: center;
+
+}
+
+h3 {
+    color: #0077b6;
+}
+
+.home {
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+
+.home:visited {
+    color: #390099;
+
+}
+
+/* .... */
+
+.Risotto {
+    background-color: #f7ede2;
+    font-family: "Inter", sans-serif;
+
+
+}
+
+.Risotto .risottoimg {
+    display: block;
+    margin: 0 auto;
+    height: 400px;
+    width: 600px;
+}
+
+p {
+    text-align: center;
+
+}
+
+h3 {
+    color: #0077b6;
+}
+
+#homebtn {
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+
+#homebtn:visited {
+    color: #390099;
+
+}
